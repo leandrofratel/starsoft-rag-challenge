@@ -74,11 +74,3 @@ docker-compose down
 
 - **Erros de Conexão com Ollama:** Verifique se o Ollama está corretamente instalado e configurado.
 - **Problemas com Dependências:** Certifique-se de que o `requirements.txt` está atualizado e contém todas as bibliotecas necessárias.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
