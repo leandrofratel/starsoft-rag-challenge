@@ -114,6 +114,7 @@ print("Vetores criados com sucesso!\n")
 pergunta = "Quais direitos eu tenho?"
 docs = chroma_db.search(vetores, pergunta)
 
+# Bloco criado apenas para testar a recuperação de partes do DOC no Baco Vetorial.
 # for doc in docs:
 #     source = doc.metadata.get("source")
 #     page = doc.metadata.get("page")
